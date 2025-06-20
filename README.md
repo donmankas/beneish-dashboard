@@ -18,7 +18,7 @@ Built with **Streamlit**, this interactive dashboard allows you to explore:
    pip install streamlit
 
 2.Clone this repository
-git clone https://github.com/manakkashyap/beneish-dashboard.git
+git clone https://github.com/donmankas/beneish-dashboard.git
 cd beneish-dashboard
 
 3.Run the dashboard:
